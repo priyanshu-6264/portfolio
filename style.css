@@ -213,7 +213,7 @@ img{
 
 
 #one{
-    background-image: url(./img/one.png);
+    background-image: url(one.png);
     background-size: cover;
     background-position: top center;
 }
@@ -717,4 +717,5 @@ img{
             margin: 1.5%;
         }
    }
+
 }
